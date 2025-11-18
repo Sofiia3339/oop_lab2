@@ -1,0 +1,9 @@
+.vs/
+bin/
+obj/
+*.user
+**/obj/
+**/bin/
+**/out/
+**/*.puml
+**/.vscode/
